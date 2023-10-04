@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @madinah71
-- 👀 I’m interested in Code, GIS , stat, and machine learning
-- 🌱 I’m currently learning Java, C++ and pyhton
+- 👋 Hi, I’m @candra
+- 👀 I’m interested in Code, GIS , stat, modelling data,and machine learning
+- 🌱 I’m currently learning R, Java, C++ and pyhton
 - 💞️ I’m looking to collaborate on app gis
 - 📫 How to reach me direct message
 
